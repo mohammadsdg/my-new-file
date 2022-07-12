@@ -1,4 +1,4 @@
 # my-new-file
-this is one of my projects
+this is my first project
 
 i hope you like it
